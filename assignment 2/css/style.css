@@ -1,0 +1,46 @@
+body {
+    
+    
+    background: rgb(186, 211, 163);
+    
+    
+}
+
+
+
+h1{
+    color: rgb(53, 23, 23);
+    
+    text-align: center;
+    font-size: 32px;
+}
+
+
+
+#candidate{
+    padding: 0px 63px;
+    text-align: center;
+    margin-left: 38%;
+
+}
+
+.btn{
+
+    background-color: rgb(12, 187, 50);
+    color: white;
+    padding: 0px 63px;
+    text-align: center;
+    margin-left: 42%;
+
+
+   
+}
+
+#dynamic-list{
+    margin-left: 42%;
+    list-style-position: inside; 
+}
+
+
+
+
